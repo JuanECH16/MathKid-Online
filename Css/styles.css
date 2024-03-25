@@ -11,6 +11,7 @@ body {
 }
 
 article {
+    /*Prueba*/
     /* Arriba | Derecha | Abajo | Izquierda */
     margin: 20px 20px 0px 20px;
     padding-bottom: 20px; /* Añade espacio al final del artículo para que el footer no lo tape */
